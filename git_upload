@@ -1,0 +1,12 @@
+1.git config --global user.email "45638332@qq.com"
+2.git config --global user.name "xinlongs"
+3.To select a file you want to upload
+4.enter command git add . //add file command
+5.enter git commit -am "add 1.txt" //a comment
+6.git status //look the git status
+7.git remote set-url origin https://github.com/xinlongs/electronic_scale.git
+8.git push origin master
+if fail to push the file use follow command: git push origin master
+and then enter command git push origin master
+
+
